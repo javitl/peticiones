@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/peticiones/static/css/main.9c7dc84e.chunk.css",
-    "main.js": "/peticiones/static/js/main.48ba4a47.chunk.js",
-    "main.js.map": "/peticiones/static/js/main.48ba4a47.chunk.js.map",
+    "main.js": "/peticiones/static/js/main.1cbcd4d1.chunk.js",
+    "main.js.map": "/peticiones/static/js/main.1cbcd4d1.chunk.js.map",
     "runtime-main.js": "/peticiones/static/js/runtime-main.2dc106c6.js",
     "runtime-main.js.map": "/peticiones/static/js/runtime-main.2dc106c6.js.map",
     "static/css/2.ffda3d49.chunk.css": "/peticiones/static/css/2.ffda3d49.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.ffda3d49.chunk.css",
     "static/js/2.df161756.chunk.js",
     "static/css/main.9c7dc84e.chunk.css",
-    "static/js/main.48ba4a47.chunk.js"
+    "static/js/main.1cbcd4d1.chunk.js"
   ]
 }
