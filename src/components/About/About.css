@@ -1,0 +1,43 @@
+.post-container {
+  max-width: 540px;
+  margin: auto;
+  padding: 20px;
+}
+
+.boton-donar {
+  border: 2px solid #C5A77E;
+  border-radius: 2em;
+  padding: 15px 25px;
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 5px;
+  margin-left: 5px;
+  transition: all 0.3s;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.boton-donar:hover {
+  color: #C5A77E;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.social-media a {
+  display: block;
+  margin: 10px 20px;
+  text-decoration: none;
+  color: #517cc2;
+  font-weight: 700;
+  transition: all 0.3s;
+}
+
+.social-media a:hover {
+  color: #C5A77E;
+}
